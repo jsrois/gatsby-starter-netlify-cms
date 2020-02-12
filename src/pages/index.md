@@ -3,7 +3,9 @@ templateKey: index-page
 title: Todas Vs Azora
 image: /img/home-jumbotron.jpg
 heading: Todas Vs Azora
-subheading: MANIFESTACIÓ CONTRA ELS FONS VOLTOR. Regulació dels lloguers, ja!
+subheading: MANIFESTACIÓ CONTRA ELS FONS VOLTOR. 
+subheading: Regulació dels lloguers, ja!
+subheading: Ens veiem l’1 de març a les 11h a la Plaça de la Vila (Badalona).
 mainpitch:
   title: Regulació dels lloguers, ja!
   description: >
