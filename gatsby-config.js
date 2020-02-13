@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'TodasVsAzora',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'El moviment per l’habitatge torna a sortir al carrer. Més de 200 famílies, 11 edificis i 5 ciutats han decidit alçar-se davant els abusos del fons voltor Azora en una manifestació el proper diumenge 1 de març a les 11h a la Plaça de la Vila de Badalona. Azora ha acaparat 15.000 habitatges en molt poc temps, i actualment està escanyant a milers de llogateres i llogaters: pujades de fins el 80%, clàusules abusives i condicions denigrants que acabaran afectant al conjunt de la ciutadania si no ens plantem. No ens aturarem fins aconseguir una negociació col·lectiva i un acord que respecti el dret a l\'habitatge de totes les famílies.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
