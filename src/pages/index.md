@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: TodasVsAzora. Regulació dels lloguers, ja!
-image: /img/home-jumbotron.jpg
-heading: MANIFESTACIÓ CONTRA ELS FONS VOLTOR
-subheading: Regulació dels lloguers, ja!
+image: /img/jumbotron-sindicat.png
+heading: MANIFESTACIÓ el proper diumenge 1 de març a les 11h a la Plaça de la Vila de Badalona
+subheading: MANIFESTACIÓ el proper diumenge 1 de març a les 11h a la Plaça de la Vila de Badalona
 
 mainpitch:
   title: Regulació dels lloguers, ja!
