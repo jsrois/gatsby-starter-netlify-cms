@@ -14,9 +14,9 @@ export default () => (
           </p>
           <p>
             Recorda que la millor manera de defensar els teus drets és{" "}
-            <Link to="https://sindicatdellogateres.org">
+            <a href="https://sindicatdellogateres.org">
               unir-te a l'Sindicat de Llogateres!
-            </Link>
+            </a>
           </p>
         </div>
       </div>
