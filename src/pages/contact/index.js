@@ -39,7 +39,7 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
+              <h1>Signa el Manifest</h1>
               <form
                 name="contact"
                 method="post"
@@ -58,7 +58,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'name'}>
-                    Your name
+                    Nom
                   </label>
                   <div className="control">
                     <input
@@ -68,6 +68,21 @@ export default class Index extends React.Component {
                       onChange={this.handleChange}
                       id={'name'}
                       required={true}
+                    />
+                  </div>
+                </div>
+                <div className="field">
+                  <label className="label" htmlFor={'organization'}>
+                    Colectiu/Organització (Opcional)
+                  </label>
+                  <div className="control">
+                    <input
+                      className="input"
+                      type={'text'}
+                      name={'organization'}
+                      onChange={this.handleChange}
+                      id={'organization'}
+                      required={false}
                     />
                   </div>
                 </div>
@@ -88,7 +103,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
-                    Message
+                    Deixa un missatge (opcional)
                   </label>
                   <div className="control">
                     <textarea
@@ -96,13 +111,13 @@ export default class Index extends React.Component {
                       name={'message'}
                       onChange={this.handleChange}
                       id={'message'}
-                      required={true}
+                      required={false}
                     />
                   </div>
                 </div>
                 <div className="field">
                   <button className="button is-link" type="submit">
-                    Send
+                    Signa
                   </button>
                 </div>
               </form>
