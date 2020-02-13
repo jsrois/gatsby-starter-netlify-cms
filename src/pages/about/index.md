@@ -1,7 +1,7 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: Regulación de alquileres ya!
+title: Regulació dels lloguers, ja!
 ---
 ### Todas Vs Azora
 
