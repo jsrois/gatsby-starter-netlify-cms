@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Todas Vs Azora
+title: TodasVsAzora. Regulació dels lloguers, ja!
 image: /img/home-jumbotron.jpg
-heading: TodasVsAzora. MANIFESTACIÓ CONTRA ELS FONS VOLTOR
+heading: MANIFESTACIÓ CONTRA ELS FONS VOLTOR
 subheading: Regulació dels lloguers, ja!
 
 mainpitch:
