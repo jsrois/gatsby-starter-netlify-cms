@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
+import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
@@ -17,6 +17,28 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                 {title}
               </h2>
               <PageContent className="content" content={content} />
+              <div className="tile" style={{marginBottom:'2em'}}>
+                    <Link to="/contact"  style={{fontSize: '1.3em'}}>
+                      Signa el manifest
+                    </Link>
+              </div>
+              <div className="tile" style={{padding: '1.25em', backgroundColor:'rgb(240, 76, 39)'}}>
+                    <p style={{fontSize: '1.3em', color: 'white', textAlign:'center', marginBottom: '1.5em'}}>Ja han signat:</p>
+                    <ul style={{color: 'white', marginTop: '2.5em', listStyleType: 'none'}}>
+                      <li>Associació Mujeres Pa'lante</li>
+                      <li>Servei Civil Internacional de Catalunya</li>
+                      <li>Ecologistes en Acció de Catalunya</li>
+                      <li>CCOO Barcelonès Nord</li>
+                      <li>Casal Popular el Tallaretde la Creu Alta</li>
+                      <li>Assemblea d la cup d Terrassa </li>
+                      <li>La Bordalla</li>
+                      <li>Associació Ateneu Candela </li>
+                      <li>Iaioflautas</li>
+                      <li>Catalunya En Comú</li>
+                      <li>Anticapitalistes</li>
+                      <li>Casal Popular el Tallaretde la Creu Alta</li>
+                    </ul>
+              </div>
             </div>
           </div>
         </div>

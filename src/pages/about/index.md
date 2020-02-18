@@ -17,5 +17,3 @@ La nostra és una lluita crucial per a la supervivència de les ciutats. No pode
 - Poder exercir el nostre dret a la negociació col·lectiva.
 - Si això no serveix, expropiar els habitatges en mans de fons voltor i bancs per tal que passin a ser habitatge públic al servei de la majoria social.
 - Estem disposats/des a fer tot allò necessari per garantir el dret a l’habitatge i a una vida digna de les milers de persones que viuen a les ciutats. Ho direm les vegades que sigui necessari: els drets humans no es negocien, ni estan en venda.
-
-[Signa el manifest](/contact)
