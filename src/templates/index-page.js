@@ -40,8 +40,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+              'rgb(240, 76, 39) 0.5rem 0px 0px, rgb(240, 76, 39) -0.5rem 0px 0px',
+            backgroundColor: 'rgb(240, 76, 39)',
             color: 'white',
             lineHeight: '1',
             textAlign: 'center',
@@ -54,8 +54,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+              'rgb(240, 76, 39) 0.5rem 0px 0px, rgb(240, 76, 39) -0.5rem 0px 0px',
+            backgroundColor: 'rgb(240, 76, 39)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -75,12 +75,31 @@ export const IndexPageTemplate = ({
                   <div className="tile">
                     <h1 className="title">{mainpitch.title}</h1>
                   </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
+                  <div className="tile" style={{marginBottom:'2em'}}>
+                    <p>{mainpitch.description}</p>
                   </div>
-                  <div className="tile">
-                    <Link to="/about">Llegeix el manifest.</Link>
+                  <div className="tile" style={{marginBottom:'2em'}}>
+                    <Link to="/about"  style={{width:"100%", textAlign:"right", fontSize: '1.3em'}}>
+                      Llegeix el manifest
+                      </Link>
                   </div>
+                  {/* <div className="tile" style={{padding: '1.25em', backgroundColor:'rgb(240, 76, 39)'}}>
+                    <h3 style={{color: 'white', textAlign:'center', marginBottom: '1.5em'}}>Ja han signat:</h3>
+                    <ul style={{color: 'white', marginTop: '2em', listStyleType: 'none'}}>
+                      <li>Associació Mujeres Pa'lante</li>
+                      <li>Servei Civil Internacional de Catalunya</li>
+                      <li>Ecologistes en Acció de Catalunya</li>
+                      <li>CCOO Barcelonès Nord</li>
+                      <li>Casal Popular el Tallaretde la Creu Alta</li>
+                      <li>Assemblea d la cup d Terrassa </li>
+                      <li>La Bordalla</li>
+                      <li>Associació Ateneu Candela </li>
+                      <li>Iaioflautas</li>
+                      <li>Catalunya En Comú</li>
+                      <li>Anticapitalistes</li>
+                      <li>Casal Popular el Tallaretde la Creu Alta</li>
+                    </ul>
+                  </div> */}
                 </div>                
               </div>
             </div>
