@@ -58,7 +58,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'name'}>
-                    Nom
+                    Nom/Colectiu/Organització
                   </label>
                   <div className="control">
                     <input
@@ -68,21 +68,6 @@ export default class Index extends React.Component {
                       onChange={this.handleChange}
                       id={'name'}
                       required={true}
-                    />
-                  </div>
-                </div>
-                <div className="field">
-                  <label className="label" htmlFor={'organization'}>
-                    Colectiu/Organització (Opcional)
-                  </label>
-                  <div className="control">
-                    <input
-                      className="input"
-                      type={'text'}
-                      name={'organization'}
-                      onChange={this.handleChange}
-                      id={'organization'}
-                      required={false}
                     />
                   </div>
                 </div>
