@@ -33,6 +33,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>Iaioflautas</li>
                       <li>La Guerrilla dels Cossos</li>
                       <li>Anticapitalistes</li>
+                      <li>Som VNG</li>
                       <li>CCOO Barcelonès Nord</li>
                       <li>Servei Civil Internacional de Catalunya</li>
                       <li>Ecologistes en Acció</li>
