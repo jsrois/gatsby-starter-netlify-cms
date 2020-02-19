@@ -58,7 +58,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'name'}>
-                    Nom/Colectiu/Organització
+                    Colectiu/Organització
                   </label>
                   <div className="control">
                     <input
