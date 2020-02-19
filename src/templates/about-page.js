@@ -42,6 +42,10 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>Assemblea de la CUP de Terrassa</li>
                       <li>La Bordalla</li>
                       <li>Associació Ateneu Candela</li>
+                      <li>SEPC - Sindicat d'Estudiants dels Països Catalans</li>
+                      <li>Arran Fort Pienc</li>
+                      <li>Casa Buenos Aires</li>
+                      <li>Joventut Comunista de Catalunya</li>
                     </ul>
               </div>
             </div>
