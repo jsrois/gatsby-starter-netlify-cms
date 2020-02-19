@@ -54,6 +54,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>Joventut Comunista de Catalunya</li>
                       <li>Espai Antiracista de Salt i Girona</li>
                       <li>Casa Buenos Aires</li>
+                      <li>Llibreria Synusia</li>
                     </ul>
               </div>
             </div>
