@@ -27,19 +27,20 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                     <ul style={{color: 'white', marginTop: '2.5em', listStyleType: 'none'}}>
                       <li>Associació Mujeres Pa'lante</li>
                       <li>CGT Catalunya</li>
-                      <li>La Guerrilla dels Cossos</li>
+                      <li>IAC (Intersindical Alternativa de Catalunya)</li>
                       <li>Plataforma Antifeixista de Badalona</li>
+                      <li>CGT - Acció Social Metall BCN</li>
+                      <li>Iaioflautas</li>
+                      <li>La Guerrilla dels Cossos</li>
+                      <li>Anticapitalistes</li>
+                      <li>CCOO Barcelonès Nord</li>
                       <li>Servei Civil Internacional de Catalunya</li>
                       <li>Ecologistes en Acció</li>
-                      <li>Anticapitalistes</li>
                       <li>Catalunya En Comú</li>
-                      <li>CCOO Barcelonès Nord</li>
                       <li>Casal Popular el Tallaretde la Creu Alta</li>
                       <li>Assemblea de la CUP de Terrassa</li>
                       <li>La Bordalla</li>
                       <li>Associació Ateneu Candela</li>
-                      <li>Iaioflautas</li>
-                      <li>CGT (Acció Social Metall BCN) </li>
                     </ul>
               </div>
             </div>
