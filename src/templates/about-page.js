@@ -25,36 +25,44 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
               <div className="tile" style={{padding: '1.25em', backgroundColor:'rgb(240, 76, 39)'}}>
                     <p style={{fontSize: '1.3em', color: 'white', textAlign:'center', marginBottom: '1.5em'}}>Ja han signat:</p>
                     <ul style={{color: 'white', marginTop: '2.5em', listStyleType: 'none'}}>
+                      <li>Anticapitalistes</li>
+                      <li>Arran Fort Pienc</li>
+                      <li>Arran Països Catalans</li>
+                      <li>Assemblea de la CUP de Terrassa</li>
+                      <li>Associació Ateneu Candela</li>
                       <li>Associació Mujeres Pa'lante</li>
-                      <li>Sindicat d'Habitatge de l'Eixample Dret</li>
-                      <li>Sindicat de Barri Poble Sec</li>
+                      <li>Ateneu La Base</li>
+                      <li>Casa Buenos Aires</li>
+                      <li>Casal Popular el Tallaret de la Creu Alta</li>
+                      <li>Catalunya En Comú</li>
+                      <li>CCOO Barcelonès Nord</li>
+                      <li>CGT - Acció Social Metall BCN</li>
+                      <li>CGT Catalunya</li>
+                      <li>CNT Badalona</li>
+                      <li>Col.lectiu Agudells</li>
+                      <li>Confederació d'Associacions Veïnals de Catalunya (CONFAVC)</li>
+                      <li>CUP - Països Catalans</li>
+                      <li>Ecologistes en Acció</li>
+                      <li>Espai Antiracista de Salt i Girona</li>
+                      <li>Fem Sant Antoni</li>
                       <li>IAC (Intersindical Alternativa de Catalunya)</li>
                       <li>Iaioflautas</li>
-                      <li>CGT Catalunya</li>
-                      <li>Arran Països Catalans</li>
-                      <li>Anticapitalistes</li>
-                      <li>Ateneu La Base</li>
-                      <li>Col.lectiu Agudells</li>
-                      <li>CUP - Països Catalans</li>
-                      <li>Plataforma Antifeixista de Badalona</li>
-                      <li>Confederació d'Associacions Veïnals de Catalunya (CONFAVC)</li>
-                      <li>CGT - Acció Social Metall BCN</li>
-                      <li>La Guerrilla dels Cossos</li>
-                      <li>Som VNG</li>
-                      <li>CCOO Barcelonès Nord</li>
-                      <li>Servei Civil Internacional de Catalunya</li>
-                      <li>Ecologistes en Acció</li>
-                      <li>Catalunya En Comú</li>
-                      <li>Casal Popular el Tallaret de la Creu Alta</li>
-                      <li>Assemblea de la CUP de Terrassa</li>
-                      <li>La Bordalla</li>
-                      <li>Associació Ateneu Candela</li>
-                      <li>SEPC - Sindicat d'Estudiants dels Països Catalans</li>
-                      <li>Arran Fort Pienc</li>
                       <li>Joventut Comunista de Catalunya</li>
-                      <li>Espai Antiracista de Salt i Girona</li>
-                      <li>Casa Buenos Aires</li>
+                      <li>La Bordalla</li>
+                      <li>La Caníbal, SCCL</li>
+                      <li>La Guerrilla dels Cossos</li>
                       <li>Llibreria Synusia</li>
+                      <li>Plataforma Antifeixista de Badalona</li>
+                      <li>Podemos Granollers</li>
+                      <li>Resistim al Gòtic</li>
+                      <li>SEPC - Sindicat d'Estudiants dels Països Catalans</li>
+                      <li>Servei Civil Internacional de Catalunya</li>
+                      <li>Sindicat d'Habitatge de l'Eixample Dret</li>
+                      <li>Sindicat d'Habitatge de Vallcarca</li>
+                      <li>Sindicat d'Habitatge del Raval</li>
+                      <li>Sindicat de Barri Poble Sec</li>
+                      <li>Som VNG</li>
+                      <li>Taula de l'Aigua de Terrassa</li>
                     </ul>
               </div>
             </div>
