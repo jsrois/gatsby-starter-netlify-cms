@@ -46,6 +46,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>Confederació d'Associacions Veïnals de Catalunya (CONFAVC)</li>
                       <li>CUP - Països Catalans</li>
                       <li>Ecologistes en Acció</li>
+                      <li>Endavant (OSAN)</li>
                       <li>Espai Antiracista de Salt i Girona</li>
                       <li>Fem Sant Antoni</li>
                       <li>Feministes Zona Franca</li>
@@ -55,6 +56,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>La Bordalla</li>
                       <li>La Caníbal, SCCL</li>
                       <li>La Guerrilla dels Cossos</li>
+                      <li>L'Embarral</li>
                       <li>Llibreria Synusia</li>
                       <li>Observatori d'Habitatge i Turisme del Clot-Camp de l'Arpa</li>
                       <li>Plataforma Antifeixista de Badalona</li>
