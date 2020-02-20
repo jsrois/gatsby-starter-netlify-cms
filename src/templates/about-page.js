@@ -61,6 +61,14 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>Sindicat d'Habitatge de Vallcarca</li>
                       <li>Sindicat d'Habitatge del Raval</li>
                       <li>Sindicat de Barri Poble Sec</li>
+                      <li>Sindicat de Llogateres de Barcelona</li>
+                      <li>Sindicat de Llogateres de Girona</li>
+                      <li>Sindicat de Llogateres de l'Hospitalet</li>
+                      <li>Sindicat de Llogateres de Rubí</li>
+                      <li>Sindicat de Llogateres de Sant Cugat</li>
+                      <li>Sindicat de Llogateres de Terrassa</li>
+                      <li>Sindicat de Llogateres de Vilanova i la Geltrú</li>
+                      <li>Sindicat de Llogateres del Penedès</li>
                       <li>Som VNG</li>
                       <li>Taula de l'Aigua de Terrassa</li>
                     </ul>
