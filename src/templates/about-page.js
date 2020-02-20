@@ -30,6 +30,8 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>Arran Països Catalans</li>
                       <li>Assemblea de la CUP de Terrassa</li>
                       <li>Associació Ateneu Candela</li>
+                      <li>Associació Cultural El Raval - El Lokal</li>
+                      <li>Associació d'Estudiants Progressistes</li>
                       <li>Associació Mujeres Pa'lante</li>
                       <li>Ateneu La Base</li>
                       <li>AVV Dreta de l'Eixample</li>
@@ -54,6 +56,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>La Caníbal, SCCL</li>
                       <li>La Guerrilla dels Cossos</li>
                       <li>Llibreria Synusia</li>
+                      <li>Observatori d'Habitatge i Turisme del Clot-Camp de l'Arpa</li>
                       <li>Plataforma Antifeixista de Badalona</li>
                       <li>Podemos Granollers</li>
                       <li>Quart Creixent (Col.lectiu Feminista de Terrassa)</li>
@@ -75,6 +78,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>Sindicato de Inquilinas de Ibiza y Formentera</li>
                       <li>Som VNG</li>
                       <li>Taula de l'Aigua de Terrassa</li>
+                      <li>Xarxa d'Economia Solidària</li>
                     </ul>
               </div>
             </div>
