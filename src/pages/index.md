@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: TodasVsAzora. Regulació dels lloguers, ja!
-image: /img/jumbotron-sindicat.png
+image: /img/jumbotron-mani.png
 heading: MANIFESTACIÓ - Diumenge 1 de març a les 11h a la Plaça de la Vila de Badalona
 subheading: MANIFESTACIÓ - Diumenge 1 de març a les 11h a la Plaça de la Vila de Badalona
 
