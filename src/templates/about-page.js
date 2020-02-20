@@ -32,6 +32,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>Associació Ateneu Candela</li>
                       <li>Associació Mujeres Pa'lante</li>
                       <li>Ateneu La Base</li>
+                      <li>AVV Dreta de l'Eixample</li>
                       <li>Casa Buenos Aires</li>
                       <li>Casal Popular el Tallaret de la Creu Alta</li>
                       <li>Catalunya En Comú</li>
@@ -45,6 +46,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>Ecologistes en Acció</li>
                       <li>Espai Antiracista de Salt i Girona</li>
                       <li>Fem Sant Antoni</li>
+                      <li>Feministes Zona Franca</li>
                       <li>IAC (Intersindical Alternativa de Catalunya)</li>
                       <li>Iaioflautas</li>
                       <li>Joventut Comunista de Catalunya</li>
@@ -54,6 +56,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>Llibreria Synusia</li>
                       <li>Plataforma Antifeixista de Badalona</li>
                       <li>Podemos Granollers</li>
+                      <li>Quart Creixent (Col.lectiu Feminista de Terrassa)</li>
                       <li>Resistim al Gòtic</li>
                       <li>SEPC - Sindicat d'Estudiants dels Països Catalans</li>
                       <li>Servei Civil Internacional de Catalunya</li>
@@ -69,6 +72,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>Sindicat de Llogateres de Terrassa</li>
                       <li>Sindicat de Llogateres de Vilanova i la Geltrú</li>
                       <li>Sindicat de Llogateres del Penedès</li>
+                      <li>Sindicato de Inquilinas de Ibiza y Formentera</li>
                       <li>Som VNG</li>
                       <li>Taula de l'Aigua de Terrassa</li>
                     </ul>
