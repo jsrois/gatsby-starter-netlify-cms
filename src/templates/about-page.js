@@ -33,7 +33,9 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>Associació Cultural El Raval - El Lokal</li>
                       <li>Associació d'Estudiants Progressistes</li>
                       <li>Associació Mujeres Pa'lante</li>
+                      <li>Associació Universigats</li>
                       <li>Ateneu La Base</li>
+                      <li>Ateneu Popular 9 Barris</li>
                       <li>AVV Dreta de l'Eixample</li>
                       <li>Casa Buenos Aires</li>
                       <li>Casal Popular el Tallaret de la Creu Alta</li>
@@ -55,10 +57,13 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>Joventut Comunista de Catalunya</li>
                       <li>La Bordalla</li>
                       <li>La Caníbal, SCCL</li>
+                      <li>La Diversa - Cooperativa d'Habitatge</li>
                       <li>La Guerrilla dels Cossos</li>
+                      <li>La Hidra Cooperativa</li>
                       <li>L'Embarral</li>
                       <li>Llibreria Synusia</li>
                       <li>Observatori d'Habitatge i Turisme del Clot-Camp de l'Arpa</li>
+                      <li>PAHC Baix Montseny</li>
                       <li>Plataforma Antifeixista de Badalona</li>
                       <li>Podemos Granollers</li>
                       <li>Quart Creixent (Col.lectiu Feminista de Terrassa)</li>
