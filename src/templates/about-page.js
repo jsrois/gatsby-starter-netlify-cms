@@ -33,6 +33,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>Associació Cultural El Raval - El Lokal</li>
                       <li>Associació d'Estudiants Progressistes</li>
                       <li>Associació Mujeres Pa'lante</li>
+                      <li>Asociación Profesional Elite Taxi</li>
                       <li>Associació Universigats</li>
                       <li>Ateneu La Base</li>
                       <li>Ateneu Popular 9 Barris</li>
@@ -45,8 +46,10 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>CGT Catalunya</li>
                       <li>CNT Badalona</li>
                       <li>Col.lectiu Agudells</li>
+                      <li>Comunistes de Catalunya</li>
                       <li>Confederació d'Associacions Veïnals de Catalunya (CONFAVC)</li>
                       <li>CUP - Països Catalans</li>
+                      <li>Debats pel Demà</li>
                       <li>Ecologistes en Acció</li>
                       <li>Endavant (OSAN)</li>
                       <li>Espai Antiracista de Salt i Girona</li>
@@ -61,11 +64,14 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>La Guerrilla dels Cossos</li>
                       <li>La Hidra Cooperativa</li>
                       <li>L'Embarral</li>
+                      <li>L'Engranatge: Ateneu Popular de La Marina - Zona Franca</li>
                       <li>Llibreria Synusia</li>
                       <li>Observatori d'Habitatge i Turisme del Clot-Camp de l'Arpa</li>
                       <li>PAHC Baix Montseny</li>
                       <li>Plataforma Antifeixista de Badalona</li>
+                      <li>Plataforma Integral del Taxi</li>
                       <li>Podemos Granollers</li>
+                      <li>PSUC Viu Badalona</li>
                       <li>Quart Creixent (Col.lectiu Feminista de Terrassa)</li>
                       <li>Resistim al Gòtic</li>
                       <li>SEPC - Sindicat d'Estudiants dels Països Catalans</li>
@@ -85,6 +91,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>Sindicato de Inquilinas de Ibiza y Formentera</li>
                       <li>Som VNG</li>
                       <li>Taula de l'Aigua de Terrassa</li>
+                      <li>Taxi Project 2.0</li>
                       <li>Xarxa d'Economia Solidària</li>
                     </ul>
               </div>
