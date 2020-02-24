@@ -26,6 +26,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                     <p style={{fontSize: '1.3em', color: 'white', textAlign:'center', marginBottom: '1.5em'}}>Ja han signat:</p>
                     <ul style={{color: 'white', marginTop: '2.5em', listStyleType: 'none'}}>
                       <li>Anticapitalistes</li>
+                      <li>Antic Teatre - Espai de Creació</li>
                       <li>Arran Fort Pienc</li>
                       <li>Arran Països Catalans</li>
                       <li>Assemblea de la CUP de Terrassa</li>
@@ -52,6 +53,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>Debats pel Demà</li>
                       <li>Ecologistes en Acció</li>
                       <li>Endavant (OSAN)</li>
+                      <li>Ens Plantem Poblenou</li>
                       <li>Espai Antiracista de Salt i Girona</li>
                       <li>Fem Sant Antoni</li>
                       <li>Feministes Zona Franca</li>
@@ -66,6 +68,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>L'Embarral</li>
                       <li>L'Engranatge: Ateneu Popular de La Marina - Zona Franca</li>
                       <li>Llibreria Synusia</li>
+                      <li>Observatori DESC</li>
                       <li>Observatori d'Habitatge i Turisme del Clot-Camp de l'Arpa</li>
                       <li>PAHC Baix Montseny</li>
                       <li>Plataforma Antifeixista de Badalona</li>
