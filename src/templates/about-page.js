@@ -25,6 +25,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
               <div className="tile" style={{padding: '1.25em', backgroundColor:'rgb(240, 76, 39)'}}>
                     <p style={{fontSize: '1.3em', color: 'white', textAlign:'center', marginBottom: '1.5em'}}>Ja han signat:</p>
                     <ul style={{color: 'white', marginTop: '2.5em', listStyleType: 'none'}}>
+                      <li>AMPA Escola Badalona Port</li>
                       <li>Anticapitalistes</li>
                       <li>Antic Teatre - Espai de Creació</li>
                       <li>Arran Fort Pienc</li>
@@ -33,22 +34,27 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>Associació Ateneu Candela</li>
                       <li>Associació Cultural El Raval - El Lokal</li>
                       <li>Associació d'Estudiants Progressistes</li>
+                      <li>Associació de Veïns del Centre de Badalona</li>
                       <li>Associació Mujeres Pa'lante</li>
                       <li>Asociación Profesional Elite Taxi</li>
                       <li>Associació Universigats</li>
                       <li>Ateneu La Base</li>
                       <li>Ateneu Popular 9 Barris</li>
                       <li>AVV Dreta de l'Eixample</li>
+                      <li>Bloc Violeta Badalona</li>
                       <li>Casa Buenos Aires</li>
+                      <li>Casal de la Dona - Terrassa</li>
                       <li>Casal Popular el Tallaret de la Creu Alta</li>
                       <li>Catalunya En Comú</li>
                       <li>CCOO Barcelonès Nord</li>
+                      <li>Celobert Cooperativa</li>
                       <li>CGT - Acció Social Metall BCN</li>
                       <li>CGT Catalunya</li>
                       <li>CNT Badalona</li>
                       <li>Col.lectiu Agudells</li>
                       <li>Comunistes de Catalunya</li>
                       <li>Confederació d'Associacions Veïnals de Catalunya (CONFAVC)</li>
+                      <li>Consell d'Entitats d'Acció Ciutadana de Terrassa</li>
                       <li>CUP - Països Catalans</li>
                       <li>Debats pel Demà</li>
                       <li>Ecologistes en Acció</li>
@@ -60,6 +66,8 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>IAC (Intersindical Alternativa de Catalunya)</li>
                       <li>Iaioflautas</li>
                       <li>Joventut Comunista de Catalunya</li>
+                      <li>Jovent Republicà de Badalona</li>
+                      <li>Jovent Republicà - Catalunya</li>
                       <li>La Bordalla</li>
                       <li>La Caníbal, SCCL</li>
                       <li>La Diversa - Cooperativa d'Habitatge</li>
@@ -70,6 +78,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>Llibreria Synusia</li>
                       <li>Observatori DESC</li>
                       <li>Observatori d'Habitatge i Turisme del Clot-Camp de l'Arpa</li>
+                      <li>PAH - Barcelona</li>
                       <li>PAHC Baix Montseny</li>
                       <li>Plataforma Antifeixista de Badalona</li>
                       <li>Plataforma Integral del Taxi</li>
@@ -93,6 +102,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                       <li>Sindicat de Llogateres del Penedès</li>
                       <li>Sindicato de Inquilinas de Ibiza y Formentera</li>
                       <li>Som VNG</li>
+                      <li>Stop Desnonaments Mallorca</li>
                       <li>Taula de l'Aigua de Terrassa</li>
                       <li>Taxi Project 2.0</li>
                       <li>Xarxa d'Economia Solidària</li>
